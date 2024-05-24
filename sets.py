@@ -1,4 +1,4 @@
-rom sets_categories_data import (ALCOHOLS)
+from sets_categories_data import ALCOHOLS
 
 
 def clean_ingredients(dish_name, dish_ingredients):
